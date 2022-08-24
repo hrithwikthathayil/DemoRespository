@@ -14,8 +14,7 @@
 		<target>lightning__FlowScreen</target>
 		<target>lightningSnapin__ChatMessage</target>
 		<target>lightningSnapin__Minimized</target>
-		<target>lightningSnapin__PreChat</target>
-		<target>lightningSnapin__ChatHeader</target>
+		
 		
 		
 	</targets>
